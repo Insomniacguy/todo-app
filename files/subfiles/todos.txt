@@ -1,21 +1,8 @@
-prepare
-execute
-sip chai
-code
-Clean
-Post on linkedin 
-Throw the trash
-Take a walk
-Throw the trash
-Clean the room
-keep coding
-Wash Hands
-splash water
-Workout
-Add a new line of code
-Complete Day 10 of Python
-Get Shit Done
-optimise code
-New_Order
-We Added A New Default Arg
-Sip Some Chai
+abc
+pqr
+testing
+Master Python
+eat fruits
+eat oranges
+exercise
+check
