@@ -1,5 +1,3 @@
-111
-pqr
 testing247
 Master Python
 eat fruits
